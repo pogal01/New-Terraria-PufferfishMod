@@ -1,1 +1,22 @@
-Pufferfish Mod is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+The Pufferfish mod. This is my first mod I have ever made on terraria.
+I'm not very good at codeing so it took me ages and I had to look at many tutorils. Sorry if anything in the tutoril files still remain. 
+
+The reason I made this mod was because I love pufferfish. 
+This mod does what it sounds like adds pufferfish to the game. They are found in the ocean.
+There are two types of pufferfish the first being a normal pufferfish and the second being a luckyfinned pufferfish (Finding nemo refrence). 
+
+The normal pufferfish will drop a spike when it dies and a Lucyfinned pufferfish will drop a fin.
+
+You can make a spikeed fin club with two fins and eight spikes.
+
+you can upgrade that in hard mode to create the true spikey finned club.
+
+you can create a gun called the angry puffer blaster in hard mode aswell.
+
+you can turn spikes into spikey bullets so you can use them in the puffer blaster.
+
+And a unobtanable pet.
+
+As I said this is my first mod also it is still in development so expect buggs and glitches.
+
+I'm also sorry this mod has not got much content in it yet.
